@@ -1,6 +1,7 @@
 # Lab 1 - Tumblr
 
 This Tumblr-inspired app displays images from the Tumblr Image Blog, Humans of New York
+
 Submitted by: Megan Yu
 
 Time spent: 1 hours spent in total
